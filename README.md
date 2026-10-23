@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse">
+  <a href="https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,14 +10,14 @@
     NFT Landing on TON Blockchain — Dog Metaverse.
     <br/>
     <br/>
-    <a href="https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse">View Demo</a>
+    <a href="https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse">View Demo</a>
     .
-    <a href="https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse/issues">Report Bug</a>
+    <a href="https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse/issues">Report Bug</a>
     .
-    <a href="https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse/issues">Request Feature</a>
+    <a href="https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse/issues">Request Feature</a>
   </p>
 </p>
 
@@ -46,15 +46,15 @@ Landing: NFT on TON Blockchain — Dog Metaverse.
 
 ## Roadmap
 
-See the [open issues](https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+* Please also read through the [Code Of Conduct](https://github.com/NexusGene/NFT-Landing-TON-Dog-Metaverse/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
