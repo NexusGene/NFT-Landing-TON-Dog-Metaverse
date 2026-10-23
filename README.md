@@ -66,11 +66,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/DeFiTON/NFT-Landing-TON-Dog-Metaverse/blob/main/LICENSE.md) for more information.
-
-## Authors
-
-* **DeFiTON** - *Sviatoslav Gusev* - [DeFiTON](https://github.com/DeFiTON) - *CPO*
+Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
 
 ## Acknowledgements
 
