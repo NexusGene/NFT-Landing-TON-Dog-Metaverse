@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/DeFiTON/NFT-Landing-TON-Dog-Metaverse/total) ![Contributors](https://img.shields.io/github/contributors/DeFiTON/NFT-Landing-TON-Dog-Metaverse?color=dark-green) ![Forks](https://img.shields.io/github/forks/DeFiTON/NFT-Landing-TON-Dog-Metaverse?style=social) ![Stargazers](https://img.shields.io/github/stars/DeFiTON/NFT-Landing-TON-Dog-Metaverse?style=social) ![Issues](https://img.shields.io/github/issues/DeFiTON/NFT-Landing-TON-Dog-Metaverse) ![License](https://img.shields.io/github/license/DeFiTON/NFT-Landing-TON-Dog-Metaverse) 
+![Downloads](https://img.shields.io/github/downloads/NexusGene/NFT-Landing-TON-Dog-Metaverse/total) ![Contributors](https://img.shields.io/github/contributors/NexusGene/NFT-Landing-TON-Dog-Metaverse?color=dark-green) ![Forks](https://img.shields.io/github/forks/NexusGene/NFT-Landing-TON-Dog-Metaverse?style=social) ![Stargazers](https://img.shields.io/github/stars/NexusGene/NFT-Landing-TON-Dog-Metaverse?style=social) ![Issues](https://img.shields.io/github/issues/NexusGene/NFT-Landing-TON-Dog-Metaverse) ![License](https://img.shields.io/github/license/NexusGene/NFT-Landing-TON-Dog-Metaverse) 
 
 ## Table Of Contents
 
